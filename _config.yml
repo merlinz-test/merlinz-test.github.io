@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+
+title: Merlins Matrix
+email: me@merlinz.me
+description: > # this means to ignore newlines until "baseurl:"
+  Not a Real Programmer, 只会写一些内行不屑外行不懂的东西。
+baseurl: ""
+url: "http://blog.merlinz.me"
+twitter_username: "merlinz165"
+github_username: "merlinz165"
+
+# Build settings
+markdown: kramdown
+
+# Gems
+gems:
+  - jekyll-feed
+  - jemoji
+exclude:
+  - Gemfile
+  - Gemfile.lock
